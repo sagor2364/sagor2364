@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sagor2364
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java, C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me sagar@codingwithsagar.tech
 
